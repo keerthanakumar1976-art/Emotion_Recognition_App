@@ -1,1 +1,1 @@
-# Emotion_Recognition_App
+# Real-Time Emotion Detection Using Photos and Live Camera
